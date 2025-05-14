@@ -6,6 +6,8 @@ L’analyse repose sur un ensemble de données publiques disponibles via l’exp
 
 Un travail d’harmonisation a été nécessaire pour mettre en cohérence les informations issues des différentes années, en raison des variations de structure ou de nomenclature entre les fichiers.
 
+Les données se trouvent dans le Drive suivant : https://drive.google.com/drive/folders/1WVZieNuk2F9m7dTT0k5QQHhf8gbzhwSs?usp=sharing
+
 ## Codes score_prez_ANNEE_fav.R et score_prez_ANNEE_gag.R
 Chaque dataset (législatives et présidentielles) a une structure différente selon l'année, c'est pourquoi nous avons un code par année.
 
