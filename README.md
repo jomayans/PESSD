@@ -1,2 +1,5 @@
-# PESSD
-Projet en économie, sociologie et sciences des données de Joséphine Mayans et Kenza Miousset
+# Parité en politique : Évolution des candidatures féminines aux élections législatives et accès aux circonscriptions gagnables (2002-2024)
+
+Joséphine MAYANS, Kenza MIOUSSET
+
+
