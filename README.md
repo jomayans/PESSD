@@ -47,6 +47,7 @@ Ce code Stata permet d’estimer les régressions suivantes :
 * Table 2 : Régressions OLS restreintes à certains partis (ex. LR) ou mouvances (ex. droite).
 * Section 5.3 : Régressions logit sur la probabilité d’obtenir une circonscription gagnable, avec et sans députés sortants.
 * Annexe : Régressions avec interactions genre × législature pour tester la variation temporelle de l’effet.
+
 Chaque spécification est exportée au format LaTeX pour être directement intégrée dans l’article.
 
 
